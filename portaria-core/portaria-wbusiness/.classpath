@@ -18,7 +18,14 @@
 	</classpathentry>
 	<classpathentry kind="src" path="/portaria-persistence"/>
 	<classpathentry kind="src" path="/portaria.domain"/>
-	<classpathentry kind="lib" path="C:/Users/Admin/.m2/repository/org/jboss/weld/servlet/weld-servlet/2.3.3.Final/weld-servlet-2.3.3.Final.jar" sourcepath="C:/Users/Admin/.m2/repository/org/jboss/weld/servlet/weld-servlet/2.3.3.Final/weld-servlet-2.3.3.Final-sources.jar">
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Vinicius Borgo/.m2/repository/org/jboss/weld/servlet/weld-servlet/2.3.3.Final/weld-servlet-2.3.3.Final.jar" sourcepath="C:/Users/Vinicius Borgo/.m2/repository/org/jboss/weld/servlet/weld-servlet/2.3.3.Final/weld-servlet-2.3.3.Final-sources.jar">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
 			<attribute name="maven.groupId" value="org.jboss.weld.servlet"/>
@@ -27,7 +34,7 @@
 			<attribute name="maven.scope" value="compile"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/Admin/.m2/repository/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final.jar" sourcepath="C:/Users/Admin/.m2/repository/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final-sources.jar">
+	<classpathentry kind="lib" path="C:/Users/Vinicius Borgo/.m2/repository/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final.jar" sourcepath="C:/Users/Vinicius Borgo/.m2/repository/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final-sources.jar">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
 			<attribute name="maven.groupId" value="org.hibernate.javax.persistence"/>
