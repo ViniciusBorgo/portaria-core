@@ -1,4 +1,4 @@
-package org.portaria.domain;
+package org.portaria.wbusiness;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
